@@ -1,0 +1,1 @@
+{"uuid":"4a500058-083f-4faf-80bc-dec8ec853310","name":"Scenario Outline: Check if user able to add a record with valid endpoint and request body with missing value","children":["c5ec720f-0fda-4e00-a500-094f0b77f1e5"],"befores":[],"afters":[],"start":1690395669522,"stop":1690395669979}

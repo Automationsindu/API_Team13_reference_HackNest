@@ -1,0 +1,1 @@
+{"uuid":"47a96a8e-88f2-4aca-aaf0-6cc36e40078a","name":"Scenario Outline: Check if user able to retrieve a record with invalid Assignment ID","children":["ba560ec5-d61d-47bf-af28-c264d8ee9b04"],"befores":[],"afters":[],"start":1690446406739,"stop":1690446406923}

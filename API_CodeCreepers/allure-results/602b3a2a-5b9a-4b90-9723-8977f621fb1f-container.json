@@ -1,0 +1,1 @@
+{"uuid":"602b3a2a-5b9a-4b90-9723-8977f621fb1f","name":"Scenario Outline: Check if user is able to retrive assinment submissions  with valid userid LMS API endpoints","children":["9def4ee3-ac80-457d-a80c-2dd1a1d7cd45"],"befores":[],"afters":[],"start":1690398241551,"stop":1690398241795}

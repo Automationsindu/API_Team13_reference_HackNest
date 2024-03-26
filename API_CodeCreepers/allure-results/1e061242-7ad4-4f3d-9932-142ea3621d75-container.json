@@ -1,0 +1,1 @@
+{"uuid":"1e061242-7ad4-4f3d-9932-142ea3621d75","name":"Scenario Outline: Check if user able to update a record with valid AssignmentID and mandatory request body","children":["691bd6bc-fed0-4964-a8c1-af697188a1f7"],"befores":[],"afters":[],"start":1690445424194,"stop":1690445424700}

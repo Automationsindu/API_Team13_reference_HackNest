@@ -1,0 +1,1 @@
+{"uuid":"78d3bcd4-a181-4481-b812-9df61de855f0","name":"Scenario Outline: Check if user is able to create a new assignment with valid endpoints and request body","children":["74600795-d867-4116-af7e-c53a90d5d088"],"befores":[],"afters":[],"start":1690419010928,"stop":1690419011491}

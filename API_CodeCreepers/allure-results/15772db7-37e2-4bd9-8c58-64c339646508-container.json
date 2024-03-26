@@ -1,0 +1,1 @@
+{"uuid":"15772db7-37e2-4bd9-8c58-64c339646508","name":"Scenario: Check if user is able to retrive all assignments with valid LMS API endpoints","children":["512420e6-41ad-4f14-8f22-8f9d08f6777d"],"befores":[],"afters":[],"start":1690399159472,"stop":1690399160510}

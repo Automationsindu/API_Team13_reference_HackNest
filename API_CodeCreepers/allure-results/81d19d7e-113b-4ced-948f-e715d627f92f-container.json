@@ -1,0 +1,1 @@
+{"uuid":"81d19d7e-113b-4ced-948f-e715d627f92f","name":"Scenario: Check if user is able to retrive all submission with valid LMS API endpoints","children":["f062cd65-5b88-479e-a328-f2215783dbd9"],"befores":[],"afters":[],"start":1690443328039,"stop":1690443375457}

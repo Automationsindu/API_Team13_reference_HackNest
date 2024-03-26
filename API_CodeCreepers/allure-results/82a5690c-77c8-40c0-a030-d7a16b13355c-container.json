@@ -1,0 +1,1 @@
+{"uuid":"82a5690c-77c8-40c0-a030-d7a16b13355c","name":"Scenario Outline: Check if user able to add a record with valid endpoint and request body with existing value","children":["abb9f344-1574-44a1-8295-cc9ee3aacd3c"],"befores":[],"afters":[],"start":1690443422996,"stop":1690443423452}

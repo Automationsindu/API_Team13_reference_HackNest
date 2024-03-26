@@ -1,0 +1,1 @@
+{"uuid":"5f8ab6b6-545e-4eb1-8436-9333494b773a","name":"Scenario Outline: Check if user is able to create assignment submission id with valid endpoints and request body missing mandatory fields","children":["a9fa690d-9c41-4daf-a43a-a625abad06e8"],"befores":[],"afters":[],"start":1690398245011,"stop":1690398245329}

@@ -1,0 +1,1 @@
+{"uuid":"1b7556ec-4fd1-4134-b389-8adc40cf2470","name":"Scenario Outline: Check if user able to  assign user to program / batch with invalid User Id and request body","children":["5b96fb6b-0662-41ef-9e0d-b2bb63d99311"],"befores":[],"afters":[],"start":1690728372210,"stop":1690728372282}

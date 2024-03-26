@@ -1,0 +1,1 @@
+{"uuid":"6377fa99-02af-408e-b870-64104bc1d143","name":"Scenario Outline: Check if user is able to create a new assignment submission id with valid endpoints and request body","children":["7a15a92b-877d-4807-a846-5df356a519cb"],"befores":[],"afters":[],"start":1690399161208,"stop":1690399162270}

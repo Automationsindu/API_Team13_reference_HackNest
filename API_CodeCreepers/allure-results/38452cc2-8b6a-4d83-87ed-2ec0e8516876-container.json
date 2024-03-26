@@ -1,0 +1,1 @@
+{"uuid":"38452cc2-8b6a-4d83-87ed-2ec0e8516876","name":"Scenario Outline: Check if user able to update a assignment with valid assignment ID and missing mandatory fields request body","children":["16a11a34-1700-4ae0-8d37-f750fc6e8a74"],"befores":[],"afters":[],"start":1690428450326,"stop":1690428450757}

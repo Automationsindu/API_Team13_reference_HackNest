@@ -1,0 +1,1 @@
+{"uuid":"7e43ce9f-1870-4334-86c0-99a69a20cac8","name":"Scenario Outline: Check if user is able to retrive assinment submissions by grades with valid studid LMS API endpoints","children":["ddeceb98-28ba-4683-8db9-a83a78e8570a"],"befores":[],"afters":[],"start":1690397886152,"stop":1690397886350}

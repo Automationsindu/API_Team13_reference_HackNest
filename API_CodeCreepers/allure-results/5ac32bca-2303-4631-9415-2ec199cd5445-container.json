@@ -1,0 +1,1 @@
+{"uuid":"5ac32bca-2303-4631-9415-2ec199cd5445","name":"Scenario Outline: Check if user able to create a User missing mandatory fields in request body","children":["0f73050f-d589-4c95-a9e3-118c24855c90"],"befores":[],"afters":[],"start":1690446401507,"stop":1690446401722}

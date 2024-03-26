@@ -1,0 +1,1 @@
+{"uuid":"1d3d8567-4532-42c3-82b3-2a686a373e82","name":"Scenario Outline: Check if user able to create a User with valid endpoint and request body (existing values in phone no)","children":["385b4f68-9db6-465e-8437-48f67b94eace"],"befores":[],"afters":[],"start":1690728371138,"stop":1690728371214}

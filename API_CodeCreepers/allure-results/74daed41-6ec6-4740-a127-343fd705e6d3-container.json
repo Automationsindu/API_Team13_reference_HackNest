@@ -1,0 +1,1 @@
+{"uuid":"74daed41-6ec6-4740-a127-343fd705e6d3","name":"Scenario Outline: Update a batch with invalid batchid and mandatory request body","children":["a512f98a-a75b-4521-b9b7-881cac11d625"],"befores":[],"afters":[],"start":1690446385798,"stop":1690446386281}

@@ -1,0 +1,1 @@
+{"uuid":"0212297c-abc2-432c-b97b-d515c344e15c","name":"Scenario Outline: Check if user able to retrieve a record with invalid Batch ID","children":["439b0ec7-ac8a-4f99-90db-2128694706a0"],"befores":[],"afters":[],"start":1690446924135,"stop":1690446924365}

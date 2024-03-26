@@ -1,0 +1,1 @@
+{"uuid":"6393ed17-3b28-44e5-bdb8-7f53be7cd09c","name":"Scenario Outline: Check if user able to delete a record with invalid Assignment ID","children":["03e40080-7c35-44bc-8fe4-663ea81143ce"],"befores":[],"afters":[],"start":1690431828213,"stop":1690431828642}

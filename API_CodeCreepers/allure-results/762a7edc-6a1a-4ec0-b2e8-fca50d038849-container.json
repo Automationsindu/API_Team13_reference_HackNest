@@ -1,0 +1,1 @@
+{"uuid":"762a7edc-6a1a-4ec0-b2e8-fca50d038849","name":"Scenario Outline: Check if user is able to create a new user with valid endpoints and request body","children":["df515178-3315-4883-98e4-ac11f48bb4ea"],"befores":[],"afters":[],"start":1690384843345,"stop":1690384844217}

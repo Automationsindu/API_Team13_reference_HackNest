@@ -1,0 +1,1 @@
+{"uuid":"83fe867b-a036-4aff-b341-699dc597abc0","name":"Scenario Outline: Check if user able to update a assignment with invalid assignment ID and mandatory request body","children":["76f026db-bfdc-47fd-b441-0c5b22841071"],"befores":[],"afters":[],"start":1690446412102,"stop":1690446412493}

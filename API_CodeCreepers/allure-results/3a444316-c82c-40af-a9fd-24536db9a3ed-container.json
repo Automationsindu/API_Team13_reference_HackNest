@@ -1,0 +1,1 @@
+{"uuid":"3a444316-c82c-40af-a9fd-24536db9a3ed","name":"Scenario Outline: Check if user is able to retrive assinment submissions by grades with valid assignment id LMS API endpoints","children":["1f08a6a3-f354-45a8-846d-a607df804c28"],"befores":[],"afters":[],"start":1690431791989,"stop":1690431796146}
